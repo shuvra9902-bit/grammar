@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Mastery Notebook",
+  "description": "An interactive grammar preparation notebook tailored specifically for Bangladeshi students with detailed Bangla explanations covering Active to Passive Voice, Direct and Indirect Speech, and Identifying Parts of Speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
